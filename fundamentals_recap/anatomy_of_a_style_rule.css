@@ -1,0 +1,10 @@
+/* CSS code to specify the anatomy of a style rule */
+
+
+/* The next whole piece of CSS code is a rule */
+p { /* The p indicates the selector (Descriptor) */
+    margin: 32px; /*This whole line is the first declaration and px is the unit. */
+    /* margin is the property (attributes) you can specify values for. */
+    padding: 2em; /*This whole line is the second declaration and em is the unit. */
+    /* padding is the property (attributes) you can specify values for. */
+}
