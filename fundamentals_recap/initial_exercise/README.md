@@ -1,0 +1,1 @@
+<image src="initial_exercise.jpg">
